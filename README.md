@@ -12,7 +12,7 @@ Vào mục **[Releases](../../releases/latest)** và chọn một trong hai:
 
 | File | Dùng khi |
 |---|---|
-| `Caramba Live_<phiên bản>_x64-setup.exe` | Muốn cài vào máy như app bình thường (có shortcut ở Start Menu). |
+| `Caramba.Live_<phiên bản>_x64-setup.exe` | Muốn cài vào máy như app bình thường (có shortcut ở Start Menu). |
 | `CarambaLive-portable-<phiên bản>.zip` | Không muốn cài: giải nén ra bất kỳ đâu (Desktop, USB…) rồi chạy. |
 
 **Yêu cầu:** Windows 10 hoặc 11, 64-bit. Cần Microsoft Edge WebView2 Runtime (Windows 10/11 thường có sẵn; nếu app báo thiếu, tải bản *Evergreen Bootstrapper* tại https://developer.microsoft.com/microsoft-edge/webview2/).
@@ -53,7 +53,7 @@ Open **[Releases](../../releases/latest)** and pick one:
 
 | File | Use it when |
 |---|---|
-| `Caramba Live_<version>_x64-setup.exe` | You want a normal install (Start Menu shortcut). |
+| `Caramba.Live_<version>_x64-setup.exe` | You want a normal install (Start Menu shortcut). |
 | `CarambaLive-portable-<version>.zip` | You don't want to install: extract anywhere (Desktop, USB stick…) and run. |
 
 **Requirements:** Windows 10 or 11, 64-bit, with the Microsoft Edge WebView2 Runtime (usually preinstalled; if the app says it is missing, get the *Evergreen Bootstrapper* from https://developer.microsoft.com/microsoft-edge/webview2/).
