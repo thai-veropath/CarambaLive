@@ -72,7 +72,7 @@ If Windows 11 says *"Smart App Control blocked…"* (no run button), Smart App C
 
 This build has a **built-in license valid through 31/12/2026**. The app opens straight away with no activation; the chip in the top bar reads *"Built-in license until 31/12/2026 · N days left"*.
 
-To keep using it after that date: click the license chip in the top bar → **📋 Copy message for Thai** → paste it into a message to Thai (Zalo) to get a license.
+To keep using it after that date: click the license chip in the top bar → **📋 Copy message for Thai** → paste it into a text message or an email to Thai (thaiph70@gmail.com) to get a license.
 
 ## White picture when reading an Edge/Chrome window
 
